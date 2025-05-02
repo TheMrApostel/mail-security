@@ -1,0 +1,5 @@
+version: STSv1
+mode: enforce
+mx: protonmail.ch
+mx: *.protonmail.ch
+max_age: 86400
